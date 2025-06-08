@@ -81,7 +81,7 @@ Jestem ambitnym studentem trzeciego roku Informatyki na Politechnice Warszawskie
       <sub><b>Technologie:</b> Python, Flask, Docker, Nginx, RSA, AES, SQLAlchemy</sub>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/GrabowskiB/GameOn-Android">GameOn (Projekt Zespołowy)</a></h3>
+      <h3>GameOn (Projekt Zespołowy)</h3>
       <p>Aplikacja mobilna (Android) do organizacji amatorskich wydarzeń sportowych. Byłem odpowiedzialny za warstwę Frontend, pracując w 12-osobowym zespole w metodyce Agile.</p>
       <sub><b>Technologie:</b> Kotlin, Android SDK, XML, Git, Azure DevOps, Figma, REST API</sub>
     </td>
