@@ -45,40 +45,29 @@ Jestem ambitnym studentem trzeciego roku Informatyki na Politechnice Warszawskie
 
 ### 🚀 Moje Projekty
 
-### 🚀 Moje Projekty
-
 <table>
   <!-- Project 1: Snake AI -->
   <tr valign="top">
-    <td width="60%">
+    <td width="100%">
       <h3><a href="https://github.com/GrabowskiB/PythonSnakeProject">Snake AI (Deep Q-Network)</a></h3>
       <p>Agent AI uczący się autonomicznej gry w Snake'a przy użyciu uczenia przez wzmacnianie (Deep Q-Network). Projekt demonstruje praktyczne zastosowanie sieci neuronowych do rozwiązywania problemów w interaktywnym środowisku.</p>
       <sub><b>Technologie:</b> Python, TensorFlow, Keras, Pygame, NumPy</sub>
     </td>
-    <td width="40%">
-      <a href="https://github.com/GrabowskiB/PythonSnakeProject">
-        <img src="https://github.com/GrabowskiB/PythonSnakeProject/raw/main/Snake.gif" alt="Snake AI GIF" width="100%"/>
-      </a>
-    </td>
   </tr>
   <!-- Project 2: SecureNotes -->
   <tr valign="top">
-    <td width="60%">
+    <td width="100%">
       <h3><a href="https://github.com/GrabowskiB/SecureNotes">SecureNotes</a></h3>
       <p>Aplikacja webowa typu "backend-first" z zaawansowanymi mechanizmami bezpieczeństwa. Zaimplementowałem m.in. szyfrowanie notatek (AES), cyfrowe podpisy (RSA) oraz uwierzytelnianie dwuskładnikowe (2FA). Całość skonteneryzowana przy użyciu Docker & Nginx.</p>
       <sub><b>Technologie:</b> Python, Flask, Docker, Nginx, RSA, AES, SQLAlchemy</sub>
     </td>
-    <td width="40%">
-    </td>
   </tr>
   <!-- Project 3: GameOn -->
   <tr valign="top">
-    <td width="60%">
+    <td width="100%">
       <h3>GameOn (Projekt Zespołowy)</h3>
       <p>Aplikacja mobilna na platformę Android do organizacji amatorskich wydarzeń sportowych. Jako członek <b>12-osobowego zespołu</b>, byłem odpowiedzialny za implementację interfejsu użytkownika (Frontend) zgodnie z metodyką <b>Agile (Scrum)</b>.</p>
       <sub><b>Technologie:</b> Kotlin, Android SDK, XML, Git, Azure DevOps, Figma, REST API</sub>
-    </td>
-    <td width="40%">
     </td>
   </tr>
 </table>
