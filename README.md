@@ -1,19 +1,4 @@
-<!--
-**GrabowskiB/GrabowskiB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- Dynamiczny Baner Powitalny -->
+<!-- Baner Powitalny -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8F0D0D&height=180§ion=header&text=Cześć!%20Jestem%20Bartek&fontSize=50&fontColor=E7D192&animation=fadeIn&fontAlignY=35" alt="Waving Banner"/>
 </p>
@@ -60,30 +45,40 @@ Jestem ambitnym studentem trzeciego roku Informatyki na Politechnice Warszawskie
 
 ### 🚀 Moje Projekty
 
+### 🚀 Moje Projekty
+
 <table>
-  <tr>
-    <td width="50%">
+  <!-- Project 1: Snake AI -->
+  <tr valign="top">
+    <td width="60%">
       <h3><a href="https://github.com/GrabowskiB/PythonSnakeProject">Snake AI (Deep Q-Network)</a></h3>
-      <p>Agent AI uczący się autonomicznej gry w Snake'a przy użyciu uczenia przez wzmacnianie. Projekt demonstruje praktyczne zastosowanie sieci neuronowych w TensorFlow/Keras.</p>
+      <p>Agent AI uczący się autonomicznej gry w Snake'a przy użyciu uczenia przez wzmacnianie (Deep Q-Network). Projekt demonstruje praktyczne zastosowanie sieci neuronowych do rozwiązywania problemów w interaktywnym środowisku.</p>
       <sub><b>Technologie:</b> Python, TensorFlow, Keras, Pygame, NumPy</sub>
     </td>
-    <td width="50%">
-      <!-- UWAGA: Zastąp ten link bezpośrednim linkiem do GIF-a ze swojego projektu! -->
+    <td width="40%">
       <a href="https://github.com/GrabowskiB/PythonSnakeProject">
-        <img src="https://github.com/GrabowskiB/PythonSnakeProject/raw/main/Snake.gif" alt="Snake AI GIF" />
+        <img src="https://github.com/GrabowskiB/PythonSnakeProject/raw/main/Snake.gif" alt="Snake AI GIF" width="100%"/>
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
+  <!-- Project 2: SecureNotes -->
+  <tr valign="top">
+    <td width="60%">
       <h3><a href="https://github.com/GrabowskiB/SecureNotes">SecureNotes</a></h3>
-      <p>Aplikacja webowa w Pythonie z zaawansowanymi mechanizmami bezpieczeństwa (szyfrowanie AES, podpisy RSA, 2FA) i konteneryzacją w Dockerze.</p>
+      <p>Aplikacja webowa typu "backend-first" z zaawansowanymi mechanizmami bezpieczeństwa. Zaimplementowałem m.in. szyfrowanie notatek (AES), cyfrowe podpisy (RSA) oraz uwierzytelnianie dwuskładnikowe (2FA). Całość skonteneryzowana przy użyciu Docker & Nginx.</p>
       <sub><b>Technologie:</b> Python, Flask, Docker, Nginx, RSA, AES, SQLAlchemy</sub>
     </td>
-    <td width="50%">
+    <td width="40%">
+    </td>
+  </tr>
+  <!-- Project 3: GameOn -->
+  <tr valign="top">
+    <td width="60%">
       <h3>GameOn (Projekt Zespołowy)</h3>
-      <p>Aplikacja mobilna (Android) do organizacji amatorskich wydarzeń sportowych. Byłem odpowiedzialny za warstwę Frontend, pracując w 12-osobowym zespole w metodyce Agile.</p>
+      <p>Aplikacja mobilna na platformę Android do organizacji amatorskich wydarzeń sportowych. Jako członek <b>12-osobowego zespołu</b>, byłem odpowiedzialny za implementację interfejsu użytkownika (Frontend) zgodnie z metodyką <b>Agile (Scrum)</b>.</p>
       <sub><b>Technologie:</b> Kotlin, Android SDK, XML, Git, Azure DevOps, Figma, REST API</sub>
+    </td>
+    <td width="40%">
     </td>
   </tr>
 </table>
@@ -94,7 +89,7 @@ Jestem ambitnym studentem trzeciego roku Informatyki na Politechnice Warszawskie
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GrabowskiB&show_icons=true&locale=pl&theme=tokyonight&hide_border=true&count_private=true" alt="Statystyki GitHub" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GrabowskiB&show_icons=true&locale=pl&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="Statystyki GitHub" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrabowskiB&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Najczęściej używane języki" />
