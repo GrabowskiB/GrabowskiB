@@ -6,7 +6,7 @@
 <!-- Sekcja "O Mnie" -->
 <div align="center">
   
-**Student Informatyki Stosowanej (PW) • Aspirujący Software Developer • Pasjonat AI i Bezpieczeństwa**
+**Student Informatyki Stosowanej (PW) • Aspirujący Software Developer • Pasjonat AI i ML**
 
 </div>
 
