@@ -31,7 +31,7 @@ Jestem ambitnym studentem trzeciego roku Informatyki na Politechnice Warszawskie
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
   <!-- Mobile -->
-  <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlin-original-wordmark.svg" alt="Kotlin" height="50" /></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="Kotlin" height="50" /></a>
   <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
   <!-- DevOps & Narzędzia -->
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
